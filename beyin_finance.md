@@ -20,7 +20,6 @@ Legitimate Interests: To conduct business development, analysis, improvement, an
 User Consent: For data processing activities requiring user consent (e.g., communication and promotional notifications).
 4. Data Security and Protection Measures
 Beyin Finance takes advanced security measures to protect the confidentiality of user data:
-
     Encryption: API keys and other sensitive information are encrypted according to industry standards and stored on AWS servers.
     Access Control: Data access is limited to authorized personnel only. Internal accesses are monitored and audited.
     Regular Audits: Security systems and data storage processes are periodically reviewed and audited.
